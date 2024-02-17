@@ -132,16 +132,18 @@ section {
 }
 
 .edu-box {
-    border-left: .2rem solid;
+    border-left: .2rem solid;   
     border-color: blue;
 
 }
+
 
 .edu-content {
     position: relative;
     padding-left: 2rem;
 
 }
+
 
 .content {
     position: relative;
